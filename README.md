@@ -24,7 +24,7 @@ ou
 python3 setup.py build
 ```
 
-### PS: Il preferable d'utiliser un fichier '.wav'
+### PS: Il est preferable d'utiliser un fichier '.wav'
 
 ## Contact
 
